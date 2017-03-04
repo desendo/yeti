@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Character.cs">
+    <Files>
+      <File FileName="Assets\BackPackHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets\meat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\Character.cs" Line="67" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
