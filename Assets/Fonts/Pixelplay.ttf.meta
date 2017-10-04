@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1404b369d838bb14ab595b9c0544093a
+timeCreated: 1490525069
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PixelPlay
+  fontNames:
+  - PixelPlay
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
