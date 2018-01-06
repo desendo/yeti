@@ -71,9 +71,9 @@ public class Creature : MonoBehaviour {
     {
         
         checkRadius = 0.05f;       
-        if (gameObject.transform.FindChild("groundCheck") != null)        
+        if (gameObject.transform.Find("groundCheck") != null)        
         {
-            groundCheck = gameObject.transform.FindChild("groundCheck").gameObject;
+            groundCheck = gameObject.transform.Find("groundCheck").gameObject;
             
         }
         else
